@@ -1,0 +1,1271 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.deps.user_deps",
+        "description": "app.api.deps.user_deps",
+        "isExtraImport": true,
+        "detail": "app.api.deps.user_deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.deps.user_deps",
+        "description": "app.api.deps.user_deps",
+        "isExtraImport": true,
+        "detail": "app.api.deps.user_deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.deps.user_deps",
+        "description": "app.api.deps.user_deps",
+        "isExtraImport": true,
+        "detail": "app.api.deps.user_deps",
+        "documentation": {}
+    },
+    {
+        "label": "TodoOut",
+        "importPath": "app.schemas.todo_schema",
+        "description": "app.schemas.todo_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoCreate",
+        "importPath": "app.schemas.todo_schema",
+        "description": "app.schemas.todo_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoUpdate",
+        "importPath": "app.schemas.todo_schema",
+        "description": "app.schemas.todo_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoCreate",
+        "importPath": "app.schemas.todo_schema",
+        "description": "app.schemas.todo_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoUpdate",
+        "importPath": "app.schemas.todo_schema",
+        "description": "app.schemas.todo_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoService",
+        "importPath": "app.services.todo_service",
+        "description": "app.services.todo_service",
+        "isExtraImport": true,
+        "detail": "app.services.todo_service",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "app.models.todo_model",
+        "description": "app.models.todo_model",
+        "isExtraImport": true,
+        "detail": "app.models.todo_model",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "app.models.todo_model",
+        "description": "app.models.todo_model",
+        "isExtraImport": true,
+        "detail": "app.models.todo_model",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "app.models.todo_model",
+        "description": "app.models.todo_model",
+        "isExtraImport": true,
+        "detail": "app.models.todo_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuth",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuth",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.api.api_v1.handlers",
+        "description": "app.api.api_v1.handlers",
+        "isExtraImport": true,
+        "detail": "app.api.api_v1.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "todo",
+        "importPath": "app.api.api_v1.handlers",
+        "description": "app.api.api_v1.handlers",
+        "isExtraImport": true,
+        "detail": "app.api.api_v1.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "importPath": "app.api.auth.jwt",
+        "description": "app.api.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.api.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "TokenSchema",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyHttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Indexed",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "before_event",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Replace",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Insert",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Indexed",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "init_beanie",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.api_v1.router",
+        "description": "app.api.api_v1.router",
+        "isExtraImport": true,
+        "detail": "app.api.api_v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "todo_router",
+        "kind": 5,
+        "importPath": "backend.app.api.api_v1.handlers.todo",
+        "description": "backend.app.api.api_v1.handlers.todo",
+        "peekOfCode": "todo_router = APIRouter()\n@todo_router.get('/', summary=\"Get all todos of the user\", response_model=List[TodoOut])\nasync def list(current_user: User = Depends(get_current_user)):\n    return await TodoService.list_todos(current_user)\n@todo_router.post('/create', summary=\"Create Todo\", response_model=Todo)\nasync def create_todo(data: TodoCreate, current_user: User = Depends(get_current_user)):\n    return await TodoService.create_todo(current_user, data)\n@todo_router.get('/{todo_id}', summary=\"Get a todo by todo_id\", response_model=TodoOut)\nasync def retrieve(todo_id: UUID, current_user: User = Depends(get_current_user)):\n    return await TodoService.retrieve_todo(current_user, todo_id)",
+        "detail": "backend.app.api.api_v1.handlers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "kind": 5,
+        "importPath": "backend.app.api.api_v1.handlers.user",
+        "description": "backend.app.api.api_v1.handlers.user",
+        "peekOfCode": "user_router = APIRouter()\n@user_router.post('/create', summary=\"Create new user\", response_model=UserOut)\nasync def create_user(data: UserAuth):\n    try:\n        return await UserService.create_user(data)\n    except pymongo.errors.DuplicateKeyError:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"User with this email or username already exist\"\n        )",
+        "detail": "backend.app.api.api_v1.handlers.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.api_v1.router",
+        "description": "backend.app.api.api_v1.router",
+        "peekOfCode": "router = APIRouter()\nrouter.include_router(user.user_router, prefix='/users', tags=[\"users\"])\nrouter.include_router(todo.todo_router, prefix='/todo', tags=[\"todo\"])\nrouter.include_router(auth_router, prefix='/auth', tags=[\"auth\"])",
+        "detail": "backend.app.api.api_v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "kind": 5,
+        "importPath": "backend.app.api.auth.jwt",
+        "description": "backend.app.api.auth.jwt",
+        "peekOfCode": "auth_router = APIRouter()\n@auth_router.post('/login', summary=\"Create access and refresh tokens for user\", response_model=TokenSchema)\nasync def login(form_data: OAuth2PasswordRequestForm = Depends()) -> Any:\n    user = await UserService.authenticate(email=form_data.username, password=form_data.password)\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"Incorrect email or password\"\n        )\n    return {",
+        "detail": "backend.app.api.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "reuseable_oauth",
+        "kind": 5,
+        "importPath": "backend.app.api.deps.user_deps",
+        "description": "backend.app.api.deps.user_deps",
+        "peekOfCode": "reuseable_oauth = OAuth2PasswordBearer(\n    tokenUrl=f\"{settings.API_V1_STR}/auth/login\",\n    scheme_name=\"JWT\"\n)\nasync def get_current_user(token: str = Depends(reuseable_oauth)) -> User:\n    try:\n        payload = jwt.decode(\n            token, settings.JWT_SECRET_KEY, algorithms=[settings.ALGORITHM]\n        )\n        token_data = TokenPayload(**payload)",
+        "detail": "backend.app.api.deps.user_deps",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    API_V1_STR: str = \"/api/v1\"\n    JWT_SECRET_KEY: str = config(\"JWT_SECRET_KEY\", cast=str)\n    JWT_REFRESH_SECRET_KEY: str = config(\"JWT_REFRESH_SECRET_KEY\", cast=str)\n    ALGORITHM = \"HS256\"\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60\n    REFRESH_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 7   # 7 days\n    BACKEND_CORS_ORIGINS: List[AnyHttpUrl] = [\n        \"http://localhost:3000\"\n    ]",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, settings.JWT_SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt\ndef create_refresh_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_refresh_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=settings.REFRESH_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, settings.JWT_REFRESH_SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt\ndef get_password(password: str) -> str:\n    return password_context.hash(password)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def get_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "password_context",
+        "kind": 5,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "password_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, settings.JWT_SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt\ndef create_refresh_token(subject: Union[str, Any], expires_delta: int = None) -> str:",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "backend.app.models.todo_model",
+        "description": "backend.app.models.todo_model",
+        "peekOfCode": "class Todo(Document):\n    todo_id: UUID = Field(default_factory=uuid4, unique=True)\n    status: bool = False\n    title: Indexed(str)\n    description: str = None\n    created_at: datetime = Field(default_factory=datetime.utcnow)\n    updated_at: datetime = Field(default_factory=datetime.utcnow)\n    owner: Link[User]\n    def __repr__(self) -> str:\n        return f\"<Todo {self.title}>\"",
+        "detail": "backend.app.models.todo_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.app.models.user_model",
+        "description": "backend.app.models.user_model",
+        "peekOfCode": "class User(Document):\n    user_id: UUID = Field(default_factory=uuid4)\n    username: Indexed(str, unique=True)\n    email: Indexed(EmailStr, unique=True)\n    hashed_password: str\n    first_name: Optional[str] = None \n    last_name: Optional[str] = None\n    disabled: Optional[bool] = None\n    def __repr__(self) -> str:\n        return f\"<User {self.email}>\"",
+        "detail": "backend.app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "TokenSchema",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth_schema",
+        "description": "backend.app.schemas.auth_schema",
+        "peekOfCode": "class TokenSchema(BaseModel):\n    access_token: str\n    refresh_token: str\nclass TokenPayload(BaseModel):\n    sub: UUID = None\n    exp: int = None",
+        "detail": "backend.app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth_schema",
+        "description": "backend.app.schemas.auth_schema",
+        "peekOfCode": "class TokenPayload(BaseModel):\n    sub: UUID = None\n    exp: int = None",
+        "detail": "backend.app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.todo_schema",
+        "description": "backend.app.schemas.todo_schema",
+        "peekOfCode": "class TodoCreate(BaseModel):\n    title: str = Field(..., title='Title', max_length=55, min_length=1)\n    description: str = Field(..., title='Title', max_length=755, min_length=1)\n    status: Optional[bool] = False\nclass TodoUpdate(BaseModel):\n    title: Optional[str] = Field(..., title='Title', max_length=55, min_length=1)\n    description: Optional[str] = Field(..., title='Title', max_length=755, min_length=1)\n    status: Optional[bool] = False\nclass TodoOut(BaseModel):\n    todo_id: UUID",
+        "detail": "backend.app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoUpdate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.todo_schema",
+        "description": "backend.app.schemas.todo_schema",
+        "peekOfCode": "class TodoUpdate(BaseModel):\n    title: Optional[str] = Field(..., title='Title', max_length=55, min_length=1)\n    description: Optional[str] = Field(..., title='Title', max_length=755, min_length=1)\n    status: Optional[bool] = False\nclass TodoOut(BaseModel):\n    todo_id: UUID\n    status: bool\n    title: str\n    description: str\n    created_at: datetime",
+        "detail": "backend.app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.todo_schema",
+        "description": "backend.app.schemas.todo_schema",
+        "peekOfCode": "class TodoOut(BaseModel):\n    todo_id: UUID\n    status: bool\n    title: str\n    description: str\n    created_at: datetime\n    updated_at: datetime",
+        "detail": "backend.app.schemas.todo_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuth",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UserAuth(BaseModel):\n    email: EmailStr = Field(..., description=\"user email\")\n    username: str = Field(..., min_length=5, max_length=50, description=\"user username\")\n    password: str = Field(..., min_length=5, max_length=24, description=\"user password\")\nclass UserOut(BaseModel):\n    user_id: UUID\n    username: str\n    email: EmailStr\n    first_name: Optional[str]\n    last_name: Optional[str]",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UserOut(BaseModel):\n    user_id: UUID\n    username: str\n    email: EmailStr\n    first_name: Optional[str]\n    last_name: Optional[str]\n    disabled: Optional[bool] = False\nclass UserUpdate(BaseModel):\n    email: Optional[EmailStr] = None\n    first_name: Optional[str] = None",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    email: Optional[EmailStr] = None\n    first_name: Optional[str] = None\n    last_name: Optional[str] = None",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TodoService",
+        "kind": 6,
+        "importPath": "backend.app.services.todo_service",
+        "description": "backend.app.services.todo_service",
+        "peekOfCode": "class TodoService:\n    @staticmethod\n    async def list_todos(user: User) -> List[Todo]:\n        todos = await Todo.find(Todo.owner.id == user.id).to_list()\n        return todos\n    @staticmethod\n    async def create_todo(user: User, data: TodoCreate) -> Todo:\n        todo = Todo(**data.dict(), owner=user)\n        return await todo.insert()\n    @staticmethod",
+        "detail": "backend.app.services.todo_service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "backend.app.services.user_service",
+        "description": "backend.app.services.user_service",
+        "peekOfCode": "class UserService:\n    @staticmethod\n    async def create_user(user: UserAuth):\n        user_in = User(\n            username=user.username,\n            email=user.email,\n            hashed_password=get_password(user.password)\n        )\n        await user_in.save()\n        return user_in",
+        "detail": "backend.app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.app",
+        "description": "backend.app.app",
+        "peekOfCode": "app = FastAPI(\n    title=settings.PROJECT_NAME,\n    openapi_url=f\"{settings.API_V1_STR}/openapi.json\"\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=settings.BACKEND_CORS_ORIGINS,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "backend.app.app",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    }
+]

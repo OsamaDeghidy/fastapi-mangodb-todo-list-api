@@ -1,0 +1,21 @@
+python3.9 -m virtualenv env
+pip install virtualenv  
+python3.10 -m virtualenv env 
+virtualenv env
+.\env\Scripts\activate 
+cd backend  
+pip install -r requirements.txt
+uvicorn app.app:app --reload   
+
+
+echo "# fastapi-mangodb-todo-list-api" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/OsamaDeghidy/fastapi-mangodb-todo-list-api.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/OsamaDeghidy/fastapi-mangodb-todo-list-api.git
+git branch -M main
+git push -u origin main
